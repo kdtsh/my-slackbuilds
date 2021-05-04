@@ -1,0 +1,18 @@
+This SlackBuild builds a package containing the bcwc_pcie driver for
+FacetimeHD.
+
+To build the package for a kernel different from the running one,
+start the script setting the KERNEL variable, as in
+  KERNEL=5.10.0 ./bcwc_pcie.SlackBuild
+
+Sensor calibration files are not strictly required, but are useful if
+the camera produces incorrect colours. An error like "direct firmware
+load for facetimehd/1871_01XX.dat failed with error -2" is normal if
+the calibration files have not been installed. See the wiki for
+bcwc_pcie for instructions for how to do this.
+
+A comprehensive installation guide is available at
+https://github.com/patjak/bcwc_pcie/wiki
+
+The project is maintained by Patrik Jakobsson at
+https://github.com/patjak

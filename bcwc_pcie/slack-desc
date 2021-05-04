@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|' on
+# the right side marks the last column you can put a character in.  You must make
+# exactly 11 lines for the formatting to be correct.  It's also customary to
+# leave one space after the ':'.
+
+         |-----handy-ruler------------------------------------------------------|
+bcwc_pcie: bcwc_pcie (Driver for the FacetimeHD Broadcom 1570 PCIe webcam) 
+bcwc_pcie:
+bcwc_pcie: A Linux driver for the Apple FacetimeHD PCIe webcams.
+bcwc_pcie:
+bcwc_pcie: According to Apple the following models contains a FacetimeHD camera
+bcwc_pcie: and should be compatible with this driver: iMac (21.5", 27", since
+bcwc_pcie: mid 2011); MacBook Air (since mid 2011); Macbook Pro (13", 15", 17", 
+bcwc_pcie: since early 2011); Thunderbolt display.
+bcwc_pcie:
+bcwc_pcie: Note that this module requires Linux kernel 4.4 or later. 
+bcwc_pcie:

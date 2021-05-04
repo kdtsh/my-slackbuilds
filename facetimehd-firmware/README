@@ -1,0 +1,10 @@
+This SlackBuild will build a package containing the firmware required
+to run a FacetimeHD webcam. This is principly used when building the
+bcwc-pcie driver.
+
+The homepage for this project is
+https://github.com/patjak/facetimehd-firmware
+
+However, since no releases are available, this has been forked to
+produce a release at
+https://github.com/kdtsh/facetimehd-firmware/

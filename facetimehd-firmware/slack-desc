@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|' on
+# the right side marks the last column you can put a character in.  You must make
+# exactly 11 lines for the formatting to be correct.  It's also customary to
+# leave one space after the ':'.
+
+                   |-----handy-ruler------------------------------------------------------|
+facetimehd-firmware: facetimehd-firmware (Firmware download and extraction tool for
+facetimehd-firmware: FacetimeHD webcam) 
+facetimehd-firmware: 
+facetimehd-firmware: A tool for downloading and extracting the firmware required to run
+facetimehd-firmware: the FacetimeHD webcam driver.
+facetimehd-firmware: 
+facetimehd-firmware: This is the pre-requisite package for the bcwc-pcie driver.
+facetimehd-firmware: 
+facetimehd-firmware: 
+facetimehd-firmware: 
+facetimehd-firmware: 
