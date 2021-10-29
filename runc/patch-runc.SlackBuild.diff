@@ -1,0 +1,12 @@
+--- a/runc.SlackBuild
++++ b/runc.SlackBuild
+@@ -72,6 +72,9 @@
+ # Do not try to get git commit hash, we're not inside git repository.
+ sed -i '/^COMMIT/d' Makefile
+ 
++# Use gccgoflags
++patch Makefile < $CWD/patch-runc.diff
++
+ make \
+   BUILDTAGS="seccomp" \
+   COMMIT=$GITHASH
