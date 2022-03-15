@@ -1,8 +1,7 @@
 This repository contains some of my own SlackBuilds. Released in the hope that
 it will be useful ...
 
-I use an early 2015 MacBook Pro and run Slackware64-current, targetting
-Slackware64 15.0 when it is released.
+I use an early 2015 MacBook Pro and run Slackware64-15.0.
 
 Each of the SlackBuilds have their own licenses. For everything else, the
 contents of LICENSE applies.
