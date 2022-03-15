@@ -1,0 +1,11 @@
+--- SBO-Lib/lib/SBO/Lib/Util.pm	2019-04-29 02:34:19.000000000 +1000
++++ SBO-Lib/lib/SBO/Lib/Util.pm.new	2022-03-15 22:50:10.759995710 +1100
+@@ -206,7 +206,7 @@
+   '14.1' => 'rsync://slackbuilds.org/slackbuilds/14.1/',
+   '14.2' => 'rsync://slackbuilds.org/slackbuilds/14.2/',
+   '14.2+' => 'https://github.com/Ponce/slackbuilds.git',
+-  '15.0' => 'https://github.com/Ponce/slackbuilds.git',
++  '15.0' => 'rsync://slackbuilds.org/slackbuilds/15.0/',
+   current => 'https://github.com/Ponce/slackbuilds.git',
+ );
+ 
